@@ -1,0 +1,16 @@
+body{
+    max-width: 1000px;
+    margin: 15px auto ;
+    color: rgb(255, 0, 0);
+    font-size: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../img/background.jpg");
+    background-size: 100%;
+}
+
+img{
+    width: 200px;
+}
